@@ -33,7 +33,7 @@ public class Main {
     public static final String FILE_PATH = "C:/Users/dinghuai.liu/Desktop/test.txt";
 
     public static void main(String[] args) {
-
+        System.out.println("111");
 //        Main main = new Main();
 //        //ABA问题
 //        main.cas1();
